@@ -1,0 +1,23 @@
+{
+  "name": "react-for-kids",
+  "version": "1.0.0",
+  "description": "This is the start of a library/playground of easy to use building block components for kids!",
+  "keywords": [
+    "react-for-kids",
+    "react",
+    "component-library"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "16.4.2",
+    "react-dom": "16.4.2",
+    "react-scripts": "1.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
